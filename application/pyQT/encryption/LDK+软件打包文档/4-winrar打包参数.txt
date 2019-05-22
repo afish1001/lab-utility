@@ -1,0 +1,15 @@
+压缩文件名：ImageStitch_V[版本]_Setup.exe
+
+解压路径：%ProgramFiles%
+快捷方式：
+D, ImageStitch\ImageStitch.exe, , 图像拼接软件, ImageStitch.exe, ImageStitch\icon\icon.ico
+P, ImageStitch\ImageStitch.exe, , 图像拼接软件, ImageStitch.exe, ImageStitch\icon\icon.ico
+
+窗口标题：ImageStitch Wizard
+窗口文本：
+<h3>图像拼接软件安装向导</h3>
+<ul>
+<li>点击 <strong>解压</strong> 开始安装，点击 <strong>取消</strong> 退出安装。</li>
+<li>点击 <strong>浏览</strong> 重新选择安装目录。</li>
+<li>也可以手动输入目标文件夹，如果不存在，程序将自动创建。</li>
+</ul>
